@@ -12,7 +12,7 @@
 
 
 
-**로그인 및 회원가입**
+로그인 및 회원가입
 ![Screenshot_1701440611](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/de68b602-67a1-4c32-a68c-68e6da505c1b)![Screenshot_1701440638](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/eed0c87d-9c5e-4efc-8b8d-2828b4a248e5)![Screenshot_1701440715](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/532c92a1-059e-4ac6-981a-a6eb55d5e6cf)
 
 
@@ -20,7 +20,8 @@
 로그인 화면 아래의 회원가입 버튼을 누르게 되면 회원가입 화면으로 이동하게 되고, 
 회원가입을 완료하게 되면 다시 로그인 화면으로 돌아와 로그인을 진행할 수 있게 됩니다.
 
-**판매글 목록 및 필터링**
+
+판매글 목록 및 필터링
 ![Screenshot_1701440443](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/11cf3f21-7db9-4c63-840f-8fc066c477cc)![Screenshot_1701440570](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/13310577-fd1e-4489-9a19-8c6f7e9896e7)![Screenshot_1701440581](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/4ab66ffc-c6ce-477d-ae66-281b054a93a7)
 
 
