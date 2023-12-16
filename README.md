@@ -12,7 +12,7 @@
 
 
 
-로그인 및 회원가입
+**로그인 및 회원가입**
 
 
 ![Screenshot_1701440611](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/de68b602-67a1-4c32-a68c-68e6da505c1b)![Screenshot_1701440638](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/eed0c87d-9c5e-4efc-8b8d-2828b4a248e5)![Screenshot_1701440715](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/532c92a1-059e-4ac6-981a-a6eb55d5e6cf)
@@ -23,13 +23,14 @@
 회원가입을 완료하게 되면 다시 로그인 화면으로 돌아와 로그인을 진행할 수 있게 됩니다.
 
 
-판매글 목록 및 필터링
+**판매글 목록 및 필터링**
 
 
 ![Screenshot_1701440443](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/11cf3f21-7db9-4c63-840f-8fc066c477cc)![Screenshot_1701440570](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/13310577-fd1e-4489-9a19-8c6f7e9896e7)![Screenshot_1701440581](https://github.com/mobile-programming-course/ccoli_market/assets/93407332/4ab66ffc-c6ce-477d-ae66-281b054a93a7)
 
 
 로그인을 하면 판매글 목록이 나타나게 되는데 좌측 상단의 스피너 기능을 통해 판매상태별로 필터링된 판매글을 확인해볼 수 있습니다.
+
 
 **판매글 세부내용**
 
@@ -41,6 +42,7 @@
 하트버튼을 누르면 관심목록에 추가되었다는 알림이 뜨고, 채팅하기 버튼을 누르면 채팅창으로 이동할 수 있습니다.
 본인이 등록한 글이면 채팅하기 버튼 및 좋아요 버튼이 비활성화 됩니다.
 
+
 **판매글 등록**
 
 
@@ -49,6 +51,7 @@
 
 판매글 목록화면 우측하단의 +버튼을 누르면 판매글 등록화면으로 이동하게 되는데 사진, 제목, 내용, 가격을 입력한 후 판매글을 등록할 수 있습니다.
 주의사항 참고해서 판매글 등록해주세요.
+
 
 **판매글 수정**
 
@@ -59,6 +62,7 @@
 본인이 작성한 판매글의 세부페이지에 들어가게 되면 수정하기 기능을 사용할 수 있습니다.
 수정하기 버튼을 누르면 수정화면으로 전환되며 판매글 등록시에 작성했던 내용과 더불어 판매여부를 수정할 수 있습니다.
 
+
 **채팅기능**
 
 
@@ -66,6 +70,7 @@
 
 
 판매글 세부내용화면에서 채팅하기 버튼을 누르면 채팅화면으로 이동하여 판매자와 채팅을 할 수 있습니다. 그리고 화면 아래의 메뉴바를 통해 채팅창 목록으로 이동하게 되면 채팅창 목록을 확인할 수 있습니다.
+
 
 **마이페이지**
 
